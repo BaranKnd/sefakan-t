@@ -1,0 +1,80 @@
+Uri: https://www.ggprem.com/
+File Name: c:\Downloaded Web Sites\www.ggprem.com\index.htm
+Content Type: text/html
+
+Uri: https://www.ggprem.com/template/assets/img/arkaplan.jpg
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\img\arkaplan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ggprem.com/template/assets/img/favicon.png
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://www.ggprem.com/template/assets/css/main.css
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\css\main.css
+Content Type: text/css
+
+Uri: https://www.ggprem.com/template/assets/css/vendor/aos.css
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\css\vendor\aos.css
+Content Type: text/css
+
+Uri: https://www.ggprem.com/index.php
+File Name: c:\Downloaded Web Sites\www.ggprem.com\index.html
+Content Type: text/html
+
+Uri: https://www.ggprem.com/hakkimizda.php
+File Name: c:\Downloaded Web Sites\www.ggprem.com\hakkimizda.html
+Content Type: text/html
+
+Uri: https://www.ggprem.com/kullanici-sozlesmesi.php
+File Name: c:\Downloaded Web Sites\www.ggprem.com\kullanici-sozlesmesi.html
+Content Type: text/html
+
+Uri: https://www.ggprem.com/iletisim.php
+File Name: c:\Downloaded Web Sites\www.ggprem.com\iletisim.html
+Content Type: text/html
+
+Uri: https://www.ggprem.com/template/assets/img/logo.png
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://www.ggprem.com/template/assets/img/demir.png
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\img\demir.png
+Content Type: image/png
+
+Uri: https://www.ggprem.com/template/assets/img/altin.png
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\img\altin.png
+Content Type: image/png
+
+Uri: https://www.ggprem.com/template/assets/img/elmas.png
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\img\elmas.png
+Content Type: image/png
+
+Uri: https://www.ggprem.com/template/assets/img/cape.png
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\img\cape.png
+Content Type: image/png
+
+Uri: https://www.ggprem.com/template/assets/js/vendor/popper.min.js
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\js\vendor\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.ggprem.com/template/assets/js/vendor/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.ggprem.com/template/assets/js/vendor/share.js
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\js\vendor\share.js
+Content Type: application/javascript
+
+Uri: https://www.ggprem.com/template/assets/js/functions.js
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\js\functions.js
+Content Type: application/javascript
+
+Uri: https://www.ggprem.com/template/assets/js/vendor/aos.js
+File Name: c:\Downloaded Web Sites\www.ggprem.com\template\assets\js\vendor\aos.js
+Content Type: application/javascript
+
+Uri: https://www.ggprem.com/urun.php
+File Name: c:\Downloaded Web Sites\www.ggprem.com\urun.html
+Content Type: text/html
+
